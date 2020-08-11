@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**igorSMelleiro/igorSMelleiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Igor!</h1>
 <h3 align="center">A Front-end Developer passionate for this area and life-style</h3>
