@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Angular, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/igorSMelleiro](https://github.com/igorSMelleiro)
+- 👨‍💻 All of my projects are available here on git hub!
 
 - 💬 Ask me about **Angular, Bootstrap, HTML, CSS, Node, SQL**
 
