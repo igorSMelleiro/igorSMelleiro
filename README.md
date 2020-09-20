@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Vue.js, Angular, React**
 
-- 👨‍💻 All of my projects are available here on git hub!
+- 👨‍💻 All of my projects are available here on GitHub!
 
 - 💬 Ask me about **Angular, Bootstrap, HTML, CSS, Node, SQL**
 
