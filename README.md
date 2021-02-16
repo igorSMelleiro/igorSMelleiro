@@ -9,5 +9,3 @@
 - 💬 Ask me about **Angular, Bootstrap, HTML, CSS, Node, SQL**
 
 - 📫 How to reach me **igorsmelleiro@gmail.com**
-
-- ⚡ Fun fact **I'm RPG's writer**
